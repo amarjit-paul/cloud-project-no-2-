@@ -76,13 +76,13 @@ Target group with healthy monitoring
 Load balancer 
 
 <img width="940" height="477" alt="image" src="https://github.com/user-attachments/assets/48a876e7-d65e-4595-9216-91e13f096f9a" />
-cloudwatch creation 
+Cloudwatch creation 
 
 <img width="940" height="501" alt="image" src="https://github.com/user-attachments/assets/ffa6d180-9b75-4a47-ba22-b562bd9be4ef" />
 AWS SNS confirmation 
 
 <img width="940" height="479" alt="image" src="https://github.com/user-attachments/assets/85d36b50-b7f2-4c9c-b242-03e089630351" />
-resource threshhold exceeds 
+Resource threshhold exceeds 
 
 
 <img width="940" height="478" alt="image" src="https://github.com/user-attachments/assets/5016f3a1-68e2-4402-8d81-fd4b04ac379b" />
