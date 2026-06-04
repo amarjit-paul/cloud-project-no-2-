@@ -1,5 +1,4 @@
-# cloud-project-no-2-
-Highly secure , scalable web server created under aws resources 
+# Highly secure and scalable web server 
 
 Innovation alwasy starts with some sorts of issues . Its been done to reduce the pain for someone .
 
